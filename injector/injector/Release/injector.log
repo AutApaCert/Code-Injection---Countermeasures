@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  injector.cpp
+injector.cpp(20): warning C4005: '_WIN32_WINNT': macro redefinition
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\SDKDDKVer.h(197): note: see previous definition of '_WIN32_WINNT'
+  SetPriv.cpp
+  Generating code
+  552 of 560 functions (98.6%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  injector.vcxproj -> C:\Users\mojta\Desktop\Injector - Final\Release\injector.exe
